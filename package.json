@@ -1,0 +1,17 @@
+{
+  "name": "prefetch-link",
+  "version": "0.0.1",
+  "description": "Create prefetch tag when onmouseenter event is triggered on the a tag.",
+  "main": "PrefetchLink.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sters/prefetch-link-js.git"
+  },
+  "author": "sters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sters/prefetch-link-js/issues"
+  },
+  "homepage": "https://github.com/sters/prefetch-link-js#readme"
+}
